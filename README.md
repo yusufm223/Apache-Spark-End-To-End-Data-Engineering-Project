@@ -1,8 +1,7 @@
 # Apache-Spark-End-To-End-Data-Engineering-Project
 
 Explore IPL Dataset and learn about Apache Spark and different functions to transform the data.
-
-Here are the things you will learn 
+ 
 ### ✅ Basics of Apache Spark (architecture, transformation, action, lazy evaluation)
 ### ✅ Creating a Databricks account and the basics of it
 ### ✅ Structured API and how to write transformation functions
