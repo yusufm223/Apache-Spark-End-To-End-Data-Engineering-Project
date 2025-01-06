@@ -2,7 +2,7 @@
 
 Explore IPL Dataset and learn about Apache Spark and different functions to transform the data.
  
-### ✅ Basics of Apache Spark (architecture, transformation, action, lazy evaluation)
+** ✅ Basics of Apache Spark (architecture, transformation, action, lazy evaluation)**
 ### ✅ Creating a Databricks account and the basics of it
 ### ✅ Structured API and how to write transformation functions
 ### ✅ Using SQL to analyze IPL Data
