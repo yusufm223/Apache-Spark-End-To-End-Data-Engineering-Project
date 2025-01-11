@@ -1,4 +1,4 @@
-# Apache-Spark-End-To-End-Data-Engineering-Project
+# Apache-Spark-Data-Engineering-Project
 
 Explore IPL Dataset and learn about Apache Spark and different functions to transform the data.
  
